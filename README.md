@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using MongoDB's $inc operator within findAndUpdate operations.  The error arises from providing a string value instead of a numeric value to the $inc operator. The solution provides the correct implementation to increment a field in a MongoDB document.
